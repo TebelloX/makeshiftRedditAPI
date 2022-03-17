@@ -1,7 +1,10 @@
 # makeshiftRedditAPI
-Reddit is a network of communities where people can dive into their interests, hobbies, and passions. Your goal is to build a makeshift Reddit API. This API needs to comply with the following criteria.
 
 Objective:
+
+Reddit is a network of communities where people can dive into their interests, hobbies, and passions. Your goal is to build a makeshift Reddit API. 
+
+This API needs to comply with the following criteria:
 
 A user should be able to create posts as well as update and delete those posts. •
 Users should be able to upvote (like) or downvote (dislike) those posts. •
